@@ -20,7 +20,7 @@
 .element3 {
   background-color: rgb(231,76,60);
   min-width: 34%;
-  min-height: 50px;
+  min-height: 100px;
 }
 .element4 {
   background-color: rgb(230, 126, 34);
@@ -38,26 +38,26 @@
   min-height: 50px;
 }
 .element7 {
-  background-color: rgb(22, 160, 133);
-  min-width: 20%;
+  background-color: #F39C12;
+  min-width: 22%;
   min-height: 50px;
 }
 
 .element8 {
-  background-color: rgb(22, 160, 133);
-  min-width: 20%;
+  background-color: #16A085;
+  min-width: 22%;
   min-height: 50px;
 }
 
 
 .element9 {
-  background-color: rgb(22, 160, 133);
-  min-width: 20%;
+  background-color: #D35400;
+  min-width: 22%;
   min-height: 50px;
 }
 
-.element9 {
-  background-color: rgb(22, 160, 133);
-  min-width: 20%;
-  min-height: 50px;
+.element10 {
+  background-color: rgb(70, 86, 101);
+  min-width: 100%;
+  min-height: 150px;
 }
