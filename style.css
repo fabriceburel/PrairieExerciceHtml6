@@ -1,0 +1,63 @@
+#conteneur{
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.element1 {
+  background-color: rgb(46,204,113);
+  min-width: 75%;
+  min-height: 50px ;
+
+}
+
+
+.element2 {
+  background-color: rgb(41,128,185);
+  min-width: 25%;
+  min-height: 50px;
+}
+.element3 {
+  background-color: rgb(231,76,60);
+  min-width: 34%;
+  min-height: 50px;
+}
+.element4 {
+  background-color: rgb(230, 126, 34);
+  min-width: 33%;
+  min-height: 50px;
+}
+.element5 {
+  background-color: rgb(149, 165, 166);
+  min-width: 33%;
+  min-height: 50px;
+}
+.element6 {
+  background-color: rgb(231,76,60);
+  min-width: 34%;
+  min-height: 50px;
+}
+.element7 {
+  background-color: rgb(22, 160, 133);
+  min-width: 20%;
+  min-height: 50px;
+}
+
+.element8 {
+  background-color: rgb(22, 160, 133);
+  min-width: 20%;
+  min-height: 50px;
+}
+
+
+.element9 {
+  background-color: rgb(22, 160, 133);
+  min-width: 20%;
+  min-height: 50px;
+}
+
+.element9 {
+  background-color: rgb(22, 160, 133);
+  min-width: 20%;
+  min-height: 50px;
+}
