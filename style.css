@@ -1,23 +1,18 @@
 #conteneur{
-
   display: flex;
   flex-wrap: wrap;
 }
-
 .element1 {
   background-color: rgb(46,204,113);
   min-width: 75%;
   min-height: 50px ;
-
 }
-
-
 .element2 {
   background-color: rgb(41,128,185);
   min-width: 25%;
   min-height: 50px;
 }
-.element3 {
+.element3, .element6{
   background-color: rgb(231,76,60);
   min-width: 34%;
   min-height: 50px;
@@ -32,30 +27,22 @@
   min-width: 33%;
   min-height: 50px;
 }
-.element6 {
-  background-color: rgb(231,76,60);
-  min-width: 34%;
-  min-height: 50px;
-}
+
 .element7 {
   background-color: #F39C12;
   min-width: 22%;
   min-height: 50px;
 }
-
 .element8 {
   background-color: #16A085;
   min-width: 22%;
   min-height: 50px;
 }
-
-
 .element9 {
   background-color: #D35400;
   min-width: 22%;
   min-height: 50px;
 }
-
 .element10 {
   background-color: rgb(70, 86, 101);
   min-width: 100%;
