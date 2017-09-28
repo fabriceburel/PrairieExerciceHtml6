@@ -1,49 +1,43 @@
-#conteneur{
-  display: flex;
-  flex-wrap: wrap;
+div{
+height: 50px;
+float: left;
 }
-.element1 {
+
+#block1{
   background-color: rgb(46,204,113);
-  min-width: 75%;
-  min-height: 50px ;
+  width: 75%;
 }
-.element2 {
+#block2{
   background-color: rgb(41,128,185);
-  min-width: 25%;
-  min-height: 50px;
+  width: 25%;
 }
-.element3{
+#block3{
   background-color: rgb(231,76,60);
-  min-width: 34%;
-  min-height: 50px;
+  width: 34%;
+  height: 100px;
 }
-.element4 {
+#block4{
   background-color: rgb(230, 126, 34);
-  min-width: 33%;
-  min-height: 50px;
+  width: 33%;
 }
-.element5 {
+#block5{
   background-color: rgb(149, 165, 166);
-  min-width: 33%;
-  min-height: 50px;
+  width: 33%;
 }
-.element7 {
+#block6{
   background-color: #F39C12;
-  min-width: 22%;
-  min-height: 50px;
+  width: 22%;
 }
-.element8 {
+#block7{
   background-color: #16A085;
-  min-width: 22%;
-  min-height: 50px;
+  width: 22%;
 }
-.element9 {
+#block8{
   background-color: #D35400;
-  min-width: 22%;
-  min-height: 50px;
+  width: 22%;
 }
-.element10 {
+#block9{
   background-color: rgb(70, 86, 101);
-  min-width: 100%;
-  min-height: 150px;
+  width: 100%;
+    height: 150px;
 }
